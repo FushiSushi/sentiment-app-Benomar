@@ -1,6 +1,6 @@
 {
   "source": "allocine",
-  "date": "2026-10-18",
+  "date": "2026-10-20",
   "n_train": 16000,
   "n_test": 4000,
   "f1_macro": 0.9205,
